@@ -21,6 +21,12 @@
 
 Durante os 7 Days de GitHub, iremos praticar algo que além de importantíssimo, será muito divertido. Iremos irá criar, do zero, um repositório no GitHub usando um template. Posteriormente, comecaremos a fazer requisições para esse repositório, tanto manualmente quanto através da IDE do Visual Studio Code. Trabalharemos com muitos conceitos que colocarão à prova os seus conhecimentos de GitHub.
 
+## 🎯 Desafios
+
+ ### Dia 1:
+- No primeiro dia, você vai criar manualmente o seu repositório no GitHub. Você também irá alterar o arquivo ReadMe do seu perfil.
+
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
