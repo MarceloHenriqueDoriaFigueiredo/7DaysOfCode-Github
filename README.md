@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img alt="7daysofcode-github" src=".github/7daysofcodegithub.png" width="40%">
+<img alt="7daysofcode-github" src=".github/7daysofcode.png" width="30%">
 </p>
 
 <br>
