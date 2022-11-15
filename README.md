@@ -22,3 +22,6 @@ Durante os 7 Days de GitHub, iremos praticar algo que além de importantíssimo,
 
  ### Dia 1:
 - No primeiro dia, você vai criar manualmente o seu repositório no GitHub. Você também irá alterar o arquivo ReadMe do seu perfil.
+
+ ### Dia 2:
+- Subir manualmente os arquivos e imagens para o seu repositório recém-criado do GitHub.
