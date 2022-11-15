@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
