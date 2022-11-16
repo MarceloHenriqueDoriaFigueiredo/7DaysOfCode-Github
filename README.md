@@ -26,3 +26,6 @@ Durante os 7 Days de GitHub, iremos praticar algo que além de importantíssimo,
 
  ### Dia 2:
 - Subir manualmente os arquivos e imagens para o seu repositório recém-criado do GitHub.
+
+ ### Dia 3:
+- Usar a IDE do Visual Studio Code e, clonar o repositório criado no GitHub para editá-lo localmente, na IDE.
