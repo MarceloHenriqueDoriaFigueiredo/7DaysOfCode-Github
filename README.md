@@ -29,3 +29,6 @@ Durante os 7 Days de GitHub, iremos praticar algo que além de importantíssimo,
 
  ### Dia 3:
 - Usar a IDE do Visual Studio Code e, clonar o repositório criado no GitHub para editá-lo localmente, na IDE.
+ 
+ ### Dia 4:
+- Inicialmente alterar o código para deixá-lo mais personalizado. Feito isso, terá que realizar o commit dessas alterações, tanto usando a IDE quanto comandos no Terminal do Visual Studio Code.
