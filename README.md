@@ -15,6 +15,11 @@
 
 <br>
 
+<p align="center">
+  <img alt="projeto 7daysofocde github" src=".github/projeto.png" width="100%">
+
+</p>
+
 ## 💻 Projeto
 
 Durante os 7 Days de GitHub, iremos praticar algo que além de importantíssimo, será muito divertido. Iremos irá criar, do zero, um repositório no GitHub usando um template. Posteriormente, comecaremos a fazer requisições para esse repositório, tanto manualmente quanto através da IDE do Visual Studio Code. Trabalharemos com muitos conceitos que colocarão à prova os seus conhecimentos de GitHub.
