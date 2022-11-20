@@ -34,3 +34,9 @@ Durante os 7 Days de GitHub, iremos praticar algo que além de importantíssimo,
 - Inicialmente alterar o código para deixá-lo mais personalizado. Feito isso, terá que realizar o commit dessas alterações, tanto usando a IDE quanto comandos no Terminal do Visual Studio Code.
  ### Dia 5:
 - Criar e publicar no repositório um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do seu código.
+ 
+ ### Dia 6:
+- Lidar com conflitos. Inicialmente, forçaremos commits a partir de duas fontes diferentes. O desafio será resolver esse conflito e fazer um commit do resultado do seu merge.
+ 
+ ### Dia 7:
+- Colocar o projeto em produção usando o GitHub Pages do próprio GitHub.
