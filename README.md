@@ -37,3 +37,6 @@ Durante os 7 Days de GitHub, iremos praticar algo que além de importantíssimo,
  
  ### Dia 6:
 - Lidar com conflitos. Inicialmente, forçaremos commits a partir de duas fontes diferentes. O desafio será resolver esse conflito e fazer um commit do resultado do seu merge.
+ 
+ ### Dia 7:
+- Colocar o projeto em produção usando o GitHub Pages do próprio GitHub.
